@@ -1,7 +1,7 @@
 ---
-language: protein
 tags:
 - protein language model
+- protein
 datasets:
 - Uniref100
 ---
